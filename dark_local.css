@@ -1,0 +1,445 @@
+/*
+ * domain:
+ * baidu.com
+ */
+
+  * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: background .2s,color .1s;
+    -ms-transition: background .2s,color .1s;
+    -o-transition: background .2s,color .1s;
+    -moz-transition: background .2s,color .1s;
+    transition: background .2s,color .1s;
+  }
+
+  select
+  {
+    height: 28px;
+    line-height: 28px;
+    font-size: 0.7rem;
+  }
+ 
+  form[name="FORM"] {
+    display: none;
+  }
+
+  a
+  {
+    color: #c4c4c4 !important;
+  }
+
+  a:hover
+  {
+    color: #2B7883 !important;
+    text-decoration: none;
+  }
+
+  html
+  {
+    font-size: 20px;
+  }
+
+  body
+  {
+    font-size: 0.7rem;
+    line-height: 1.5;
+    background: #282828;
+    color: #34495E;
+    font-family: Helvetica Neue,Helvetica,Source Han Sans CN,PingFang SC,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+  }
+
+  .t_one h3
+  {
+    font-size: 0.85rem;
+    padding: 5px 0;
+    display: inline-block;
+  }
+
+  div.tpc_content
+  {
+    font-size: 0.9rem;
+    margin: 0 30px;
+    font-family: Helvetica Neue,Helvetica,Source Han Sans CN,PingFang SC,Microsoft YaHei,Noto Sans CJK SC,WenQuanYi Micro Hei,Arial,sans-serif;
+  }
+
+  div.tpc_content img,div.tpc_content input
+  {
+    max-width: 100%;
+    display: inline-block;
+    margin: 0;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.3);
+    padding: 10px;
+    border-radius: 2px;
+  }
+
+  .tr1 th.tpc_content
+  {
+    padding: 0 50px!important;
+    font-size: 0.8rem;
+  }
+
+  .tips,.h
+  {
+    font-weight: bold;
+  }
+
+  h4
+  {
+    margin: 0 30px;
+    font-size: 0.9rem;
+    text-align: center;
+  }
+
+  .h
+  {
+    border: 0;
+    background: #474747;
+    padding: 5px 10px;
+  }
+
+  .h a
+  {
+    color: #2B7883;
+  }
+
+  .h a:hover
+  {
+    color: #E74C3C;
+    text-decoration: none;
+  }
+
+  .guide
+  {
+    display: block;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding-top: 10px;
+    font-weight: normal;
+    background: 0;
+    color: #C9D6DA;
+  }
+
+  .guide a
+  {
+    margin: 0 10px;
+  }
+
+  font[color=blue] {
+    color: #71a4f7;
+  }
+
+  .guide span
+  {
+    color: #34495E;
+  }
+
+  h2
+  {
+    font-size: 0.85rem;
+  }
+
+  h2 a, h3 a
+  {
+  }
+
+  #header
+  {
+    max-width: 100%;
+  }
+
+  .banner
+  {
+    text-align: center;
+    font-size: 24px;
+    padding: 0;
+    background: url(http://t66y.com/index.gif) center no-repeat #282828;
+    background-size: auto 60px;
+    margin: 0 auto;
+    height: 80px;
+    box-shadow: 0 0 3px rgba(0,0,0,0.2);
+  }
+
+  .banner b
+  {
+    display: none;
+  }
+
+  .banner a
+  {
+    display: inline-block;
+    height: 80px;
+    width: 200px;
+  }
+
+  .f_one, .t_one, .r_one,.t2
+  {
+    background: #fff;
+    font-size: 0.6rem;
+  }
+
+  .f_one:hover, .t_one:hover, .r_one:hover
+  {
+    background: none;
+  }
+
+  .t3
+  {
+    font-size: 0.7rem;
+  }
+
+  .t3 td
+  {
+    padding-bottom: 5px;
+  }
+
+  .t3 td:first-child
+  {
+  }
+
+  .t3 td:first-child a
+  {
+    margin: 0;
+  }
+
+  .t3 td:first-child a:after
+  {
+    content: ">";
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .t3 td:first-child a:last-child:after
+  {
+    content: "";
+    margin: 0;
+  }
+
+  .t3 a
+  {
+    margin-left: 15px;
+    font-size: 0.7rem;
+  }
+
+  .t
+  {
+    border: 0;
+    padding: 0;
+    margin: 0;
+  }
+
+  .t2,.t
+  {
+    margin: 0px auto 20px;
+    border: 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 2px;
+    background: #fff;
+  }
+
+  .pages
+  {
+    margin: 20px 0;
+    font-size: 0.8rem;
+  }
+
+  .tr3 td {
+    border-bottom: 1px #282828 !important;
+  }
+
+  .pages a
+  {
+    font-size: 0.8rem;
+    border: none;
+    background: none;
+    padding: 5px 10px;
+    color: #34495E;
+    margin: 0;
+    border-radius: 0.7rem;
+  }
+
+  th, td, th.t_one, div.t {
+    background: #282828;
+  }
+
+  .pages a:after
+  {
+    content: ""!important;
+    margin: 0!important;
+  }
+
+  .pages a:hover,.pages a:hover input
+  {
+    background: #2B7883;
+    color: #fff;
+  }
+
+  .pages a u
+  {
+    text-decoration: none;
+    font-weight: bold;
+    color: #E67E22;
+  }
+
+  .pages a:hover u
+  {
+    color: #fff;
+  }
+
+  .pages input
+  {
+    background: none;
+  }
+
+  form .t td
+  {
+    background: #fff;
+  }
+
+  .input
+  {
+    border: 1px solid #ccc;
+    padding: 0 10px;
+    height: 28px;
+    line-height: 28px;
+    font-size: 0.7rem;
+  }
+
+  .btn
+  {
+    border: 0;
+    background: #2B7883;
+    color: #fff;
+    height: 28px;
+    line-height: 28px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 2px;
+  }
+
+  #footer
+  {
+    border: 0;
+  }
+
+  .tr3
+  {
+    padding: 10px;
+  }
+
+  .tr3 td, .tr3 th
+  {
+    border-right: 0;
+    border-bottom: 1px solid #ECF0F1;
+  }
+
+  .tr3 th
+  {
+    padding: 10px;
+    line-height: 1.5;
+  }
+
+  #ajaxtable .tr3:hover,#cate_1  .tr3:hover,#cate_6  .tr3:hover
+  {
+    background: #ECF0F1;
+  }
+
+  #ajaxtable
+  {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+
+  .tr2 td, .tr2 th
+  {
+    border: 0;
+    font-weight: bold;
+    font-size: 0.7rem;
+    padding: 8px;
+    color: #2B7883;
+  }
+
+  .tr2
+  {
+    background: #fff;
+  }
+
+  th.t_one, td.h {
+    display: none;
+  }
+
+  input[type=text] {
+    color: #c4c4c4;
+  }
+
+  .tipad
+  {
+    border: 0;
+    color: #95A5A6;
+    text-align: right;
+    line-height: 1.5;
+  }
+
+  .tipad a
+  {
+    margin-left: 20px;
+  }
+
+  .tiptop
+  {
+    border: 0;
+    text-align: right;
+  }
+
+  .tiptop a
+  {
+    color: #95A5A6;
+    margin-left: 10px;
+  }
+
+  .tiptop a:hover
+  {
+    color: #E74C3C;
+  }
+
+  .tr1 th
+  {
+    width: auto;
+    padding: 10px!important;
+  }
+
+  th.r_two
+  {
+    color: #7F8C8D;
+    width: 150px;
+    border-right: 1px solid #ECF0F1;
+    font-size: 0.6rem;
+  }
+
+  th.r_two b
+  {
+    font-size: 0.7rem;
+  }
+
+  th.r_two .tac
+  {
+    text-align: left;
+  }
+
+  .r_two img
+  {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .s_rand
+  {
+    padding: 20px;
+  }
+
+  textarea
+  {
+    font-size: 16px;
+    padding: 10px;
+  }

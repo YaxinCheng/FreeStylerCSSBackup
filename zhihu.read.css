@@ -1,0 +1,9 @@
+/*
+ * starts with:
+ * http://www.zhihu.com/read
+ * part section 2
+ * */
+
+html,.right-pane,.question-description,.entry-title,.answer-body,.show-answer,.show-answer h2,.show-answer p,.segmented-control a,#answer-content{background:none#222!important;color:#bbb!important;text-shadow:none!important;}
+
+.answer-info,.filter,.vote-count,.back{background:none#222!important;color:#bbb!important;text-shadow:none!important;}
