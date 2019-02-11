@@ -8,7 +8,7 @@
 }
 
 div._lz6s, div.Di7vw {
-  background: #727272;
+  background: #1e1e1e;
 }
 
 a.gmFkV {
@@ -33,4 +33,8 @@ a.nJAzx, a.TlrDj, a.zV_Nj, span, span.jQgLo, div.KV-D4, a.O4GlU, div.Nm9Fw, a.Ru
 
 a.notranslate {
   color: #59bfff;
+}
+
+span.u-__7 {
+  filter: invert();
 }
