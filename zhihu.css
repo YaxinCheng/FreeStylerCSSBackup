@@ -89,4 +89,5 @@ img[eeimg="1"] {filter: invert(100%);} /* 公式图反色 */
 .global-header,.qr{visibility:hidden!important;}
 
 div.Post-content, div.RichContent-actions { background: #1A1A1A !important; }
-div.ColumnPageHeader { background: #222; }
+div.ColumnPageHeader, .CommentListV2, .CommentsV2-footer, .CommentEditorV2-inputUpload { background: #222; }
+.Editable-control { filter: invert(); }

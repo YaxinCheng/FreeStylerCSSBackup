@@ -20,7 +20,7 @@ a.gmFkV {
   color: #333 !important;
 }
 
-header.UE9AK, div.eo2As, div.b2rUF, div.DPiy6, div.pR7Pc, div.vtWDf {
+header.UE9AK, div.eo2As, div.b2rUF, div.DPiy6, div.pR7Pc, div.vtWDf, .JyscU {
   background: #303030;
 }
 
@@ -32,10 +32,14 @@ a.nJAzx, a.TlrDj, a.zV_Nj, span, span.jQgLo, div.KV-D4, a.O4GlU, div.Nm9Fw, a.Ru
   color: white;
 }
 
-a.notranslate {
-  color: #59bfff;
+.notranslate {
+  color: #59bfff !important;
 }
 
 span.u-__7, .OfoBO {
   filter: invert();
+}
+
+nav.jLuN9 {
+  background: #2d2f31;
 }
