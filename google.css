@@ -31,8 +31,15 @@ body, body #appbar {
       background: #242424 !important;
     }
 
-	div#fbar {
+	div#fbar, li.hdtbItm, a.hdtb-mitem, span.hdtb-mn-c, div.Hrg3ab {
       background: #242424;
+    }
+
+div.bXs5of, .WbxHpf, .af7Ejf { color: white !important; }
+input.ktf { background: #515151; } 
+    
+    div.sfbgx, div.sfbgg, div.cF4V5c, ul.hdtbU {
+      background-color: #242424;
     }
 
 	div#fbar > span {
